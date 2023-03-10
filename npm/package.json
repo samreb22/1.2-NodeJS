@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "npm",
+  "version": "0.0.1",
+  "description": "Un ejemplo de servidor HTTP utilizando el módulo colors",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samreb22/1.2-NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "colors",
+    "http"
+  ],
+  "author": "Samuel Rebollo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samreb22/1.2-NodeJS/issues"
+  },
+  "homepage": "https://github.com/samreb22/1.2-NodeJS#readme"
+}
