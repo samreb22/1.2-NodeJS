@@ -1,4 +1,4 @@
-Práctica 1.2-NodeJS
+# Práctica 1.2-NodeJS
 
 ![image](https://user-images.githubusercontent.com/127318967/224289970-7aa04718-1613-4de0-8670-1a6648b21452.png)
 
